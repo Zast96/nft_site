@@ -30,8 +30,16 @@ const App = () => {
   return (
     <NavigationContainer theme={theme}>
       <Stack.Navigator>
-        <Stack.Screen name='Home' component={Home} />
-        <Stack.Screen name='Details' component={Details} />
+        <Stack.Screen
+          name='Home'
+          component={Home}
+          options={{headerShown: false}}
+        />
+        <Stack.Screen
+          name='Details'
+          component={Details}
+          options={{headerShown: false}}
+        />
       </Stack.Navigator>
     </NavigationContainer>
   );
