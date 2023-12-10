@@ -14,6 +14,6 @@ QR Code for IOS:
 
 
 
-App Showcase Site: [https://nftsc.netlify.app](https://nftsc.netlify.app/)https://nftsc.netlify.app/
+App Showcase Site: https://nftsc.netlify.app/
 
 Enjoy!
