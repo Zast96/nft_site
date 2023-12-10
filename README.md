@@ -11,4 +11,9 @@ QR Code for Android:
 QR Code for IOS:
 ![Screenshot 2023-12-10 183409](https://github.com/Zast96/nft_site/assets/114933581/9d7ee61d-62db-4163-8741-a88870076fee)
 
+
+
+
+App Showcase Site: [https://nftsc.netlify.app](https://nftsc.netlify.app/)https://nftsc.netlify.app/
+
 Enjoy!
